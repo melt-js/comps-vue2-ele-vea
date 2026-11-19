@@ -3,29 +3,29 @@
     "name": "comps-vue2-ele-vea",
     "app_group_name": "comps-vue2-ele-vea",
     "git_repo_url": "",
-    "online_version": "2026.11.17-1",
-    "build_version": "2026.11.17-1"
+    "online_version": "2026.11.18-1",
+    "build_version": "2026.11.18-1"
   },
   "version": {
     "plugin_ver": "4.3.20",
     "extract_mode": "build",
     "sub_app_name": "comps-vue2-ele-vea",
-    "sub_app_version": "2026.11.17-1",
+    "sub_app_version": "2026.11.18-1",
     "src_map": {
       "webDirPath": "/comps-vue2-ele-vea/hel_dist",
       "htmlIndexSrc": "/comps-vue2-ele-vea/hel_dist/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "/comps-vue2-ele-vea/hel_dist/css/chunk-2a04e500.adc60f1d.css",
-        "/comps-vue2-ele-vea/hel_dist/css/chunk-6493626a.adc60f1d.css"
+        "/comps-vue2-ele-vea/hel_dist/css/chunk-42e39f12.3fda2168.css",
+        "/comps-vue2-ele-vea/hel_dist/css/chunk-92f4eba2.3fda2168.css"
       ],
       "chunkJsSrcList": [
-        "/comps-vue2-ele-vea/hel_dist/js/runtime.6e0ac202.js",
-        "/comps-vue2-ele-vea/hel_dist/js/vendor.281f36ec.js",
-        "/comps-vue2-ele-vea/hel_dist/js/app.99f2815e.js",
-        "/comps-vue2-ele-vea/hel_dist/js/chunk-2a04e500.8d6bb839.js",
-        "/comps-vue2-ele-vea/hel_dist/js/chunk-6493626a.e058ff8c.js"
+        "/comps-vue2-ele-vea/hel_dist/js/runtime.a34d1ba1.js",
+        "/comps-vue2-ele-vea/hel_dist/js/vendor.d1e30c95.js",
+        "/comps-vue2-ele-vea/hel_dist/js/app.727fa298.js",
+        "/comps-vue2-ele-vea/hel_dist/js/chunk-42e39f12.3d3874ec.js",
+        "/comps-vue2-ele-vea/hel_dist/js/chunk-92f4eba2.d0822b52.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -45,7 +45,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/css/chunk-2a04e500.adc60f1d.css",
+            "href": "/comps-vue2-ele-vea/hel_dist/css/chunk-42e39f12.3fda2168.css",
             "rel": "prefetch"
           }
         },
@@ -53,7 +53,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/css/chunk-6493626a.adc60f1d.css",
+            "href": "/comps-vue2-ele-vea/hel_dist/css/chunk-92f4eba2.3fda2168.css",
             "rel": "prefetch"
           }
         },
@@ -61,7 +61,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/js/chunk-2a04e500.8d6bb839.js",
+            "href": "/comps-vue2-ele-vea/hel_dist/js/chunk-42e39f12.3d3874ec.js",
             "rel": "prefetch"
           }
         },
@@ -69,7 +69,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/js/chunk-6493626a.e058ff8c.js",
+            "href": "/comps-vue2-ele-vea/hel_dist/js/chunk-92f4eba2.d0822b52.js",
             "rel": "prefetch"
           }
         },
@@ -77,7 +77,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/js/app.99f2815e.js",
+            "href": "/comps-vue2-ele-vea/hel_dist/js/app.727fa298.js",
             "rel": "preload",
             "as": "script"
           }
@@ -86,7 +86,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/js/runtime.6e0ac202.js",
+            "href": "/comps-vue2-ele-vea/hel_dist/js/runtime.a34d1ba1.js",
             "rel": "preload",
             "as": "script"
           }
@@ -95,7 +95,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele-vea/hel_dist/js/vendor.281f36ec.js",
+            "href": "/comps-vue2-ele-vea/hel_dist/js/vendor.d1e30c95.js",
             "rel": "preload",
             "as": "script"
           }
@@ -106,32 +106,32 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2-ele-vea/hel_dist/js/runtime.6e0ac202.js"
+            "src": "/comps-vue2-ele-vea/hel_dist/js/runtime.a34d1ba1.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2-ele-vea/hel_dist/js/vendor.281f36ec.js"
+            "src": "/comps-vue2-ele-vea/hel_dist/js/vendor.d1e30c95.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2-ele-vea/hel_dist/js/app.99f2815e.js"
+            "src": "/comps-vue2-ele-vea/hel_dist/js/app.727fa298.js"
           }
         }
       ],
       "otherSrcList": [
         "/comps-vue2-ele-vea/hel_dist/favicon.ico",
         "/comps-vue2-ele-vea/hel_dist/index.html",
-        "/comps-vue2-ele-vea/hel_dist/js/chunk-2a04e500.8d6bb839.js.gz",
-        "/comps-vue2-ele-vea/hel_dist/js/chunk-6493626a.e058ff8c.js.gz",
-        "/comps-vue2-ele-vea/hel_dist/js/vendor.281f36ec.js.gz"
+        "/comps-vue2-ele-vea/hel_dist/js/chunk-42e39f12.3d3874ec.js.gz",
+        "/comps-vue2-ele-vea/hel_dist/js/chunk-92f4eba2.d0822b52.js.gz",
+        "/comps-vue2-ele-vea/hel_dist/js/vendor.d1e30c95.js.gz"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/comps-vue2-ele-vea/hel_dist/css/chunk-2a04e500.adc60f1d.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/css/chunk-6493626a.adc60f1d.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/chunk-2a04e500.8d6bb839.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/chunk-6493626a.e058ff8c.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/app.99f2815e.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/runtime.6e0ac202.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/vendor.281f36ec.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2-ele-vea doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2-ele-vea/hel_dist/js/runtime.6e0ac202.js\"></script><script src=\"/comps-vue2-ele-vea/hel_dist/js/vendor.281f36ec.js\"></script><script src=\"/comps-vue2-ele-vea/hel_dist/js/app.99f2815e.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/comps-vue2-ele-vea/hel_dist/css/chunk-42e39f12.3fda2168.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/css/chunk-92f4eba2.3fda2168.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/chunk-42e39f12.3d3874ec.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/chunk-92f4eba2.d0822b52.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/app.727fa298.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/runtime.a34d1ba1.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele-vea/hel_dist/js/vendor.d1e30c95.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2-ele-vea doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2-ele-vea/hel_dist/js/runtime.a34d1ba1.js\"></script><script src=\"/comps-vue2-ele-vea/hel_dist/js/vendor.d1e30c95.js\"></script><script src=\"/comps-vue2-ele-vea/hel_dist/js/app.727fa298.js\"></script></body></html>"
   }
 }
